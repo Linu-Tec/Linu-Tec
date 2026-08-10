@@ -6,7 +6,7 @@ FOCUS: 3D-PRINTING | CNC-MACHINING | LASER-ENGRAVING
 ```
 
 > [\!IMPORTANT]
-> **OFFIZIELLE WEBSEITE:** [www.linu-tec.de](https://www.google.com/search?q=https://www.linu-tec.de)
+> **OFFIZIELLE WEBSEITE:** [www.linu-tec.de](https://linutec-homepage.vercel.app/)
 
 ### // CORE\_SERVICES
 
@@ -28,8 +28,8 @@ FOCUS: 3D-PRINTING | CNC-MACHINING | LASER-ENGRAVING
 ### // CONNECT\_WITH\_US
 
   - ✉️ **Anfragen:** `LinuTec@gmx.de`
-  - 🔗 **Socials:** [Linktree](https://www.google.com/search?q=https://linktr.ee/linutec) | [TikTok](https://www.tiktok.com/@linutec)
-  - 📺 **YouTube:** [@Linu-Tec](https://www.google.com/search?q=https://youtube.com/%40Linu-Tec)
+  - 🔗 **Socials:** [Linktree](https://linktr.ee/linutec) | [TikTok](https://www.tiktok.com/@linutec)
+  - 📺 **YouTube:** [@Linu-Tec](https://www.youtube.com/@Linu-Tec)
 
 -----
 
