@@ -24,20 +24,21 @@ Um keine neuen Videos, 3D-Modelle oder Projekt-Updates zu verpassen, schau gerne
 * 🌳 **Linktree:** [linktr.ee/linutec](https://linktr.ee/linutec) – Alle wichtigen Links auf einen Blick.
 ---
 
-## 🚀 Meine Open-Source-Hardware
+## 🚀 Projekt-Dashboard
 
-Hier findest du die vollständigen Baupläne, Platinenlayouts (Gerber) und Codes zu meinen Projekten:
+Hier findest du die Übersicht meiner wichtigsten Hardware-Entwicklungen, inklusive direktem Zugriff auf Schaltpläne, Quellcodes und Produktionsdaten (Gerber).
 
-### 🧪 [Digitaler Magnetrührer](https://github.com)
-Ein präziser, Arduino-gesteuerter Labor-Magnetrührer mit Schrittmotor-Antrieb (`DRV8825`), Rampe und flackerfreiem I2C-Display-Layout.
-* **Status:** Stable / v1.0.0 released
-* **Highlights:** `Timer1`-Interrupts, massgeschneidertes 3D-Druck-Gehäuse.
+| Vorschau | Projekt / Repository | Beschreibung & Fokus | Status |
+| :---: | :--- | :--- | :---: |
+| 🧪 | **[Digitaler Magnetrührer](https://github.com)** | Labor-Magnetrührer mit präziser Schrittmotor-Ansteuerung, Rampe und I2C-Display. | 🟢 `v1.0.0` |
+| ⚡ | **[Universelle Motortreiberplatine](https://github.com)** | Universelle Steuerplatine für Schrittmotoren (DRV8825) mit dicken Power-Traces. | 🟢 `v1.0.0` |
+| 💡 | **[Elektronischer Dimmer (0-50V)](https://github.com)** | Modulares DC-Dimmersystem (1-fach & 4-fach) für LED-Lasten oder Laser-Zubehör. | 🟡 `Beta` |
+| 📡 | **[DMX LED-Kanne (PAR-Mod)](https://github.com)** | DMX-gesteuerter Scheinwerfer mit Arduino Nano, MAX485 und analoger NE555-PWM. | 🟢 `Stable` |
+| 🎨 | **[DMX Neopixel-Ansteuerung](https://github.com)** | Übersetzer von DMX-512-Signalen auf adressierbare digitale RGB-Streifen (WS2812B). | 🟢 `Stable` |
+| ⚙️ | **[MPCNC Nano Estlcam Shield](https://github.com)** | Robustes, optogekoppeltes CNC-Interface-Board (160x100mm) für Estlcam-Fräsen. | 🟢 `v1.0.0` |
+| 🔌 | **[DMX Relais-Box](https://github.com)** | Sicheres Schalten von 230V-Netzlasten im Lichttechnikbereich via DMX-Bus. | 🟢 `Stable` |
 
-### ⚡ [Universelle Motortreiberplatine](https://github.com)
-Die universelle Steuerplatine für Schrittmotoren aus meinen Videos – optimiert für die Kopplung mit dem Arduino Uno und flexibler Jumper-Konfiguration.
-* **Status:** Stable / v1.0.0 Hardware released
-* **Highlights:** Volles 1/32-Microstepping, dicke Power-Traces, On-Board 5V Regler.
-
+> *Status-Legende: 🟢 Fertiggestellt & Getestet | 🟡 In Entwicklung / Beta | 🔴 Geplant*
 
 
 ---
@@ -50,71 +51,8 @@ Die universelle Steuerplatine für Schrittmotoren aus meinen Videos – optimier
 </p>
 
 
-💡 *Du hast Fragen zu einer Platine oder möchtest ein Projekt nachbauen? Schreib mir einfach über die Community-Tabs oder schau in die Video-Beschreibungen auf YouTube!**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+💡 **Du hast Fragen zu einer Platine oder möchtest ein Projekt nachbauen? Schreib mir einfach über die Community-Tabs oder schau in die Video-Beschreibungen auf YouTube!**
 
 ---
----
----
----
----
-# 🛠️ LINU-TEC | Engineering & Manufacturing
-
-```text
-STATUS: OPERATIONAL
-FOCUS: 3D-PRINTING | CNC-MACHINING | LASER-ENGRAVING
-```
-
-> [\!IMPORTANT]
-> **OFFIZIELLE WEBSEITE:** [www.linu-tec.de](https://linutec-homepage.vercel.app/)
-
-### // CORE\_SERVICES
-
-  - 🖨️ **3D-Druck:** Hochpräzises FDM & SLA Prototyping
-  - ⚡ **CNC-Fräsen:** Fertigung von technischen Bauteilen
-  - 🔥 **Laser-Gravur:** Markierung & Individualisierung
-
------
-
-### // MACHINE\_LOG & STATUS
-
-```text
-[ SYSTEM_CORE ]
-> 3D_PRINTER_CLUSTER: [ ONLINE ]
-> CNC_UNIT_01:        [ STANDBY ]
-> LASER_CORE_V2:      [ ACTIVE ]
-```
-
-### // CONNECT\_WITH\_US
-
-  - ✉️ **Anfragen:** `LinuTec@gmx.de`
-  - 🔗 **Socials:** [Linktree](https://linktr.ee/linutec) | [TikTok](https://www.tiktok.com/@linutec)
-  - 📺 **YouTube:** [@Linu-Tec](https://www.youtube.com/@Linu-Tec)
-
------
 
 *Located in Germany. Precision in every layer.*
-
------
