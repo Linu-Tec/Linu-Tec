@@ -8,7 +8,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin Maker und Entwickler mit einer gro�
 
 | Bereich | Werkzeuge & Technologien |
 | :--- | :--- |
-| **⚡ Elektrik | Smart Home, KNX, LOGO |
+| **⚡ Elektrik** | Smart Home, KNX, LOGO |
 | **💻 Elektronik & Code** | KiCad (PCB-Design), Arduino (AVR/ATmega), C/C++ |
 | **🌀 CNC-Fräsen** | 3D-Fräsen, Estlcam, Platinen-Gravur, Steuerungsbau |
 | **🖨️ 3D-Druck & CAD** | FDM-Druck, Funktionsbauteile, Prototypenbau (CAD) |
