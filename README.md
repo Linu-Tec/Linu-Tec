@@ -38,6 +38,15 @@ Hier findest du die Übersicht meiner wichtigsten Hardware-Entwicklungen, inklus
 | 🎨 | **[DMX Neopixel-Ansteuerung](https://github.com)** | Übersetzer von DMX-512-Signalen auf adressierbare digitale RGB-Streifen (WS2812B). | 🟢 `Stable` |
 | ⚙️ | **[MPCNC Nano Estlcam Shield](https://github.com)** | Robustes, optogekoppeltes CNC-Interface-Board (160x100mm) für Estlcam-Fräsen. | 🟢 `v1.0.0` |
 | 🔌 | **[DMX Relais-Box](https://github.com)** | Sicheres Schalten von 230V-Netzlasten im Lichttechnikbereich via DMX-Bus. | 🟢 `Stable` |
+|	-	| **[Drehteller für 3D-Scanner](https://github.com)** | Drehteller zum einfachen Scannen | 🔴|
+| 💡 | **[Nepixel LED Matrix](https://github.com)** | LED Matrix mit Neopixel (WS2812) | 🟡 |
+| ⚙️ | **[DMX Lüfter](https://github.com)** | Lüfterumbau, damit man mit DMX steuern kann | 🟡 |
+| 💡 | **[DMX LED Bar](https://github.com)** | Selbstgebaute LED Bar über DMX steuerbar | 🟢 |
+| - | **[Temperaturmessstation](https://github.com)** | Kleine Box zum Temperatur messen mit Display | 🟢 |
+| - | **[-](https://github.com)** | | 🔴 |
+| - | **[-](https://github.com)** | | 🔴 |
+| - | **[-](https://github.com)** | | 🔴 |
+ 
 
 > *Status-Legende: 🟢 Fertiggestellt & Getestet | 🟡 In Entwicklung / Beta | 🔴 Geplant*
 
