@@ -23,6 +23,7 @@ Um keine neuen Videos, 3D-Modelle oder Projekt-Updates zu verpassen, schau gerne
 * 📺 **YouTube:** [LinuTec Kanal abonnieren](https://www.youtube.com/@Linu-Tec) – Videos zu Arduino, CNC & mehr.
 * 🌐 **Website:** [linutec-homepage.vercel.app](https://linutec-homepage.vercel.app/) – Meine offizielle Projekt-Zentrale.
 * 🌳 **Linktree:** [linktr.ee/linutec](https://linktr.ee/linutec) – Alle wichtigen Links auf einen Blick.
+
 ---
 
 ## 🚀 Projekt-Dashboard
@@ -38,14 +39,14 @@ Hier findest du die Übersicht meiner wichtigsten Hardware-Entwicklungen, inklus
 | 🎨 | **[DMX Neopixel-Ansteuerung](https://github.com)** | Übersetzer von DMX-512-Signalen auf adressierbare digitale RGB-Streifen (WS2812B). | 🟢 `Stable` |
 | ⚙️ | **[MPCNC Nano Estlcam Shield](https://github.com)** | Robustes, optogekoppeltes CNC-Interface-Board (160x100mm) für Estlcam-Fräsen. | 🟢 `v1.0.0` |
 | 🔌 | **[DMX Relais-Box](https://github.com)** | Sicheres Schalten von 230V-Netzlasten im Lichttechnikbereich via DMX-Bus. | 🟢 `Stable` |
-|	⚙️ | **[Drehteller für 3D-Scanner](https://github.com)** | Drehteller zum einfachen Scannen | 🔴 `folgt...` |
+|	⚙️ | **[Drehteller für 3D-Scanner](https://github.com)** | Drehteller zum einfachen Scannen | 🔴 `folgt ...` |
 | 💡 | **[Nepixel LED Matrix](https://github.com)** | LED Matrix mit Neopixel (WS2812) | 🟡 `Beta` |
 | ⚙️ | **[DMX Lüfter](https://github.com)** | Lüfterumbau, damit man mit DMX steuern kann | 🟡 `Beta` |
 | 💡 | **[DMX LED Bar](https://github.com)** | Selbstgebaute LED Bar über DMX steuerbar | 🟢 `Stable` |
-| - | **[Temperaturmessstation](https://github.com)** | Kleine Box zum Temperatur messen mit Display | 🟢 `Stable` |
-| - | **[-](https://github.com)** | | 🔴 `folgt...` |
-| - | **[-](https://github.com)** | | 🔴 `folgt...` |
-| - | **[-](https://github.com)** | | 🔴 `folgt...` |
+| 🌡️ | **[Temperaturmessstation](https://github.com)** | Kleine Box zum Temperatur messen mit Display | 🟢 `Stable` |
+| ⚡ | **[Home Assistent einrichten](https://github.com)** | Wie richte ich Home Assistent und wie binde ich KNX, Shelly ein | 🔴 `folgt ...` |
+| - | **[CO2-Laser](https://github.com)** | Was brauche ich, Schnittwerte für die Orientierung | 🔴 `folgt ...` |
+| - | **[-](https://github.com)** | | 🔴 `folgt ...` |
  
 
 > *Status-Legende: 🟢 Fertiggestellt & Getestet | 🟡 In Entwicklung / Beta | 🔴 Geplant*
@@ -61,7 +62,7 @@ Hier findest du die Übersicht meiner wichtigsten Hardware-Entwicklungen, inklus
 </p>
 
 
-💡 **Du hast Fragen zu einer Platine oder möchtest ein Projekt nachbauen? Schreib mir einfach über die Community-Tabs oder schau in die Video-Beschreibungen auf YouTube!**
+💡 **Du hast Fragen zu einer Platine oder möchtest ein Projekt nachbauen? Schreib mir einfach über die Community-Tabs oder schau in die Video-Beschreibungen auf YouTube! `linutec@gmx.de`**
 
 ---
 
