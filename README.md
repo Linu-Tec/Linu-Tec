@@ -1,4 +1,4 @@
-# 👋 Moin, ich bin Linu-Tec!
+# 👋 Moin, ich bin Linu-Tec! Linus
 
 Willkommen auf meinem GitHub-Profil! Ich bin Maker und Entwickler mit einer großen Leidenschaft für Elektronik, Automatisierung und CNC-Technik. Auf meinem [YouTube-Kanal](https://www.youtube.com/@Linu-Tec) teile ich regelmäßig meine Projekte rund um DIY-Laborgeräte, smarte Steuerungen und Werkstatt-Upgrades.
 
@@ -8,6 +8,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin Maker und Entwickler mit einer gro�
 
 | Bereich | Werkzeuge & Technologien |
 | :--- | :--- |
+| **⚡ Elektrik | Smart Home, KNX, LOGO |
 | **💻 Elektronik & Code** | KiCad (PCB-Design), Arduino (AVR/ATmega), C/C++ |
 | **🌀 CNC-Fräsen** | 3D-Fräsen, Estlcam, Platinen-Gravur, Steuerungsbau |
 | **🖨️ 3D-Druck & CAD** | FDM-Druck, Funktionsbauteile, Prototypenbau (CAD) |
